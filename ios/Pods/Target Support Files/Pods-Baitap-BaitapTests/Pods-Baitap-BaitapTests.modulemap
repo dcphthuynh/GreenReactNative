@@ -1,0 +1,6 @@
+module Pods_Baitap_BaitapTests {
+  umbrella header "Pods-Baitap-BaitapTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

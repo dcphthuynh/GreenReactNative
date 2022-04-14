@@ -1,0 +1,6 @@
+module Pods_Baitap {
+  umbrella header "Pods-Baitap-umbrella.h"
+
+  export *
+  module * { export * }
+}
